@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Frontend Developers</title>
+        <description>Frontend Developers - Frontend Developers</description>
+        <link>http://frontenddevelopers.github.io</link>
+        <link>http://frontenddevelopers.github.io</link>
+        <lastBuildDate>2015-01-09T23:41:53+00:00</lastBuildDate>
+        <pubDate>2015-01-09T23:41:53+00:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Hello World</title>
+                <description>&lt;p&gt;Test!&lt;/p&gt;
+
+</description>
+                <link>http://frontenddevelopers.github.io/2015/01/09/hello-world</link>
+                <guid>http://frontenddevelopers.github.io/2015/01/09/hello-world</guid>
+                <pubDate>2015-01-09T00:00:00+00:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
